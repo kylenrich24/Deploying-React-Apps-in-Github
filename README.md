@@ -13,6 +13,6 @@ npm install --save gh-pages
 ```
 
 ```javascript
-"predeploy": "npm run build"
+"predeploy": "npm run build",
 "deploy": "gh-pages -d build"
 ```
